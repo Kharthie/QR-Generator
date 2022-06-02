@@ -4,8 +4,7 @@
 
 # QR-Generator
 
-Demo (https://frosty-wescoff-85d123.netlify.app/)
-
+[Demo]([https://merry-clafoutis-227b38.netlify.app/](https://frosty-wescoff-85d123.netlify.app/))
 
 ## Available Scripts
 
